@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T10:37:06.818Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.3" etag="ZjT14NJYuien19DGzTYj" type="github"><diagram id="pI3TvqZEfABD5yvR_8wu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-15T10:56:21.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="JO3Nc1gn91-rmOwOaNg5" version="20.2.3" type="github">
+  <diagram id="pI3TvqZEfABD5yvR_8wu" name="Sayfa -1">
+    <mxGraphModel dx="3585" dy="2300" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Tv8X_T_9aumbPLl7LAax-3" target="Tv8X_T_9aumbPLl7LAax-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.609;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Tv8X_T_9aumbPLl7LAax-3" target="Tv8X_T_9aumbPLl7LAax-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Müşteri&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1096" y="-1066" width="102" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-10" value="Geri ödeme" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1239" y="-775" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-11" value="Sipariş&lt;br&gt;Bulma" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-995" y="-779" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-19" value="" style="endArrow=none;html=1;rounded=0;dashed=1;fontSize=17;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.031;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Tv8X_T_9aumbPLl7LAax-10" target="Tv8X_T_9aumbPLl7LAax-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1008" y="-494" as="sourcePoint" />
+            <mxPoint x="-958" y="-544" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="Tv8X_T_9aumbPLl7LAax-19">
+          <mxGeometry x="-0.2273" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-48" value="Scheduling" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;hachureGap=4;fontSize=17;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-698" y="-652" width="174" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=17;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Tv8X_T_9aumbPLl7LAax-51" target="Tv8X_T_9aumbPLl7LAax-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-53" value="&amp;lt;&amp;lt;import&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="Tv8X_T_9aumbPLl7LAax-52">
+          <mxGeometry x="0.2096" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-51" value="Sales" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;hachureGap=4;fontSize=17;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-372" y="-652" width="169" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-54" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;EventHandler&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;delegate&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-402" y="-876" width="196" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-55" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ISampel&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-402" y="-1063" width="196" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=17;endArrow=open;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="Tv8X_T_9aumbPLl7LAax-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1171" y="-493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-58" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Kontrat&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1251" y="-658" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Tv8X_T_9aumbPLl7LAax-63" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Satış Anlaşması&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Baslangic: Date = Now&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;+ Bitis : Date = Baslangic {=&amp;gt; Baslangic}&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;hachureGap=4;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1251" y="-491" width="451" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
