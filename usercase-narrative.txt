@@ -1,0 +1,7 @@
+Kullanıcı listeden seçtiği ürünün ID bilgisini kullanarak bir sipariş formu doldurur.
+Sipariş formuna girilmesi gereken bilgiler
+    - Müşteri isim ve soyismi
+    - Adres
+    - Teslimat tarihi
+    - Ödeme türü bilgileridir
+Müşteri nakit ödeme yerine kredi kartı ile ödemeyi seçerse kart no, ve cvc bilgilerini de girmek zorundadır. Söz konusu bilgiler veri tabanında ilgili tablolar kaydedilmelidir.
